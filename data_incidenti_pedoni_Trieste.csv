@@ -22,7 +22,7 @@ ID,Address,latitute,longitude,Found address,Match,Google
 21,via San Giacomo in Monte,45.6444208,13.7775166,"Via S. Giacomo in Monte, Trieste TS, Italy",Match,Google
 22,via Flavia 14 altezza piazzale Cagni,45.621234,13.7995741,"Via Flavia, 14, 34148 Trieste TS, Italy",Partial Match,Google
 23,Stazione trieste,45.6573067,13.7722217,"Trieste Centrale, Piazza della Libertà, 11, 34132 Trieste TS, Italy",Match,Google
-24,Via Giulia davanti alla chiesa,41.8983366,12.4661092,"Via Giulia, 63, 00186 Roma RM, Italy",Match,Google
+24,"Via Giulia, trieste",45.6546577,13.789555,"Via Giulia, Trieste TS, Italy",Match,Google
 25,"Via Zorutti, San Giacomo",45.6349727,13.7824142,"Via Pietro Zorutti, 34144 Trieste TS, Italy",Partial Match,Google
 26,"Basovizza, via Ivo Gruden zona laghetti",45.6413652,13.8622869,"34149 Basovizza TS, Italy",Partial Match,Google
 27,via Giulia 63,45.6551013,13.7922051,"Via Giulia, 63, 34126 Trieste TS, Italy",Match,Google
@@ -53,7 +53,7 @@ ID,Address,latitute,longitude,Found address,Match,Google
 52,viale miramare 271,45.687848,13.745397,"Viale Miramare, 271, 34136 Trieste TS, Italy",Match,Google
 53,via Levier Longera,45.6517525,13.8118414,"Str. per Longera & Via Adolfo Levier, 34128 Trieste TS, Italy",Partial Match,Google
 54,via Carducci inizio Largo barriera,45.6519786,13.7769061,"Via Giosuè Carducci, Trieste TS, Italy",Partial Match,Google
-55,via Flavia 84,41.9073287,12.4972968,"Via Flavia, 84, 00187 Roma RM, Italy",Match,Google
+55,"via Flavia 84, Trieste",45.6180334,13.8159472,"Via Flavia, 84, 34148 Trieste TS, Italy",Match,Google
 56,ss14 altezza monumento lupi toscana,45.787416,13.5923772,"SS14, 34011 San Giovanni di Duino TS, Italy",Match,Google
 57,via xxx ottobre-via milano,45.6534034,13.7753192,"Via Milano & Via Trenta Ottobre, 34133 Trieste TS, Italy",Match,Google
 58,Campo Sacro Mobilificio Elio,45.7132083,13.7294568,"Località Prosecco, 546, 34151 Prosecco TS, Italy",Match,Google
