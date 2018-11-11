@@ -13,11 +13,11 @@ ID,Address,latitute,longitude,Found address,Match,Google
 12,via Fabio Severo 147,45.6603476,13.7926509,"Via Fabio Severo, 147, 34127 Trieste TS, Italy",Match,Google
 13,Opicina pompieri,45.6880659,13.7730516,"Via Carsia, 44, 34151 Trieste TS, Italy",Match,Google
 14,via Valdirivo,45.6535773,13.7729605,"Via Valdirivo, Trieste TS, Italy",Match,Google
-15,Via San Marco 25,45.477329,9.1884455,"Via S. Marco, 25, 20121 Milano MI, Italy",Match,Google
-16,via Valerio,34.2149793,-118.4797016,"15909 Blythe St, Van Nuys, CA 91406, USA",Match,Google
+15,"Via San Marco 25, trieste",45.6415511,13.7760126,"Via San Marco, 25, 34144 Trieste TS, Italy",Match,Google
+16,"via Valerio, trieste",45.6621533,13.8047561,"Via Alfonso Valerio, Trieste TS, Italy",Match,Google
 17,Viale Miramare 75,45.6666582,13.7629155,"Viale Miramare, 75, 34136 Trieste TS, Italy",Match,Google
 18,Riva Grumula,45.6458537,13.7600447,"Riva Grumula, 34123 Trieste TS, Italy",Match,Google
-19,via Pascoli,44.1345254,12.2518342,"Via Giovanni Pascoli, 47521 Cesena FC, Italy",Match,Google
+19,"via Pascoli, trieste",45.6470515,13.7843244,"Via Giovanni Pascoli, Trieste TS, Italy",Match,Google
 20,via Commerciale 164,45.665363,13.7865641,"Via Commerciale, 164, 34134 Trieste TS, Italy",Match,Google
 21,via San Giacomo in Monte,45.6444208,13.7775166,"Via S. Giacomo in Monte, Trieste TS, Italy",Match,Google
 22,via Flavia 14 altezza piazzale Cagni,45.621234,13.7995741,"Via Flavia, 14, 34148 Trieste TS, Italy",Partial Match,Google
@@ -30,15 +30,15 @@ ID,Address,latitute,longitude,Found address,Match,Google
 29,strada per longera,45.6460505,13.8230195,"Str. per Longera, Trieste TS, Italy",Match,Google
 30,Sistiana Tre noci,45.7703406,13.6394291,"Sistiana, 33, 34019 Duino-Aurisina TS, Italy",Match,Google
 31,Sistiana Tre noci ,45.7703406,13.6394291,"Sistiana, 33, 34019 Duino-Aurisina TS, Italy",Match,Google
-32,Incrocio via Carducci/crispi,41.9033532,-87.6759746,"1928 W Division St, Chicago, IL 60622, USA",Partial Match,Google
-33,campo marzio,26.3654645,-80.1333419,"6000 Glades Rd, Boca Raton, FL 33431, USA",Match,Google
+32,"via Carducci/crispi, Trieste",45.6507,13.7774996,"Via Giosuè Carducci & Via Francesco Crispi, 34122 Trieste TS, Italy",Match,Google
+33,"campo marzio, Trieste",45.6463812,13.7552495,"Stazione Trieste Campo Marzio, Via Giulio Cesare, 34123 Trieste TS, Italy",Match,Google
 34,Incrocio Mazzini/San Spiridione,45.6509193,13.7727015,"Via Mazzini & Via San Spiridione, 34121 Trieste TS, Italy",Match,Google
 35,Costalunga 173,45.6259647,13.8070399,"Via Costalunga, 173, 34148 Trieste TS, Italy",Match,Google
 36,via flavia lato palazzetto,45.6196719,13.8109944,"Via Flavia, Trieste TS, Italy",Partial Match,Google
-37,via Bramante,45.4804926,9.1794995,"Via Bramante, 20154 Milano MI, Italy",Match,Google
+37,"via Bramante, Trieste",45.6453488,13.7740664,"Via Donato Bramante, 34131 Trieste TS, Italy",Match,Google
 38,Gabrovizza,45.7244361,13.7291398,"34010 Gabrovizza TS, Italy",Match,Google
 39,via della Fabbrica incrocio Sette Fontane,45.644146,13.7839791,"Via della Fabbrica & Via delle Settefontane, 34138 Trieste TS, Italy",Match,Google
-40,via Milano 20,45.8199837,8.8327275,"Viale Milano, 20, 21100 Varese VA, Italy",Match,Google
+40,"via Milano 20, trieste",45.6534456,13.7754882,"Via Milano, 20, 34133 Trieste TS, Italy",Match,Google
 41,incrocio via Istria via Montecchi,45.6418468,13.7810669,"Via dei Montecchi & Via dell'Istria, 34137 Trieste TS, Italy",Match,Google
 42,viale Campi Elisi 33,45.6386012,13.7694591,"Viale Campi Elisi, 33, 34143 Trieste TS, Italy",Match,Google
 43,"Via Zorutti, San Giacomo (da largo vardabasso)",45.6349727,13.7824142,"Via Pietro Zorutti, 34144 Trieste TS, Italy",Partial Match,Google
@@ -47,7 +47,7 @@ ID,Address,latitute,longitude,Found address,Match,Google
 46,via valmaura,45.622838,13.7901175,"Via di Valmaura, 34148 Trieste TS, Italy",Match,Google
 47,via carducci 43 (mercato coperto),45.6489161,13.7786652,"Via Giosuè Carducci, 36, 34125 Trieste TS, Italy",Match,Google
 48,incrocio via Roma via Valdirivo,45.6535773,13.7729605,"Via Roma & Via Valdirivo, 34132 Trieste TS, Italy",Match,Google
-49,via Milano angolo via Roma,41.9027835,12.4963655,"Rome, Metropolitan City of Rome, Italy",Partial Match,Google
+49,"via Milano / via Roma, Trieste",45.6539993,13.7731885,"Via Roma & Via Milano, 34132 Trieste TS, Italy",Match,Google
 50,stada di fiume 46,45.6370195,13.7891269,"Strada di Fiume, 46, 34137 Trieste TS, Italy",Match,Google
 51,viale miramare 271,45.687848,13.745397,"Viale Miramare, 271, 34136 Trieste TS, Italy",Match,Google
 52,viale miramare 271,45.687848,13.745397,"Viale Miramare, 271, 34136 Trieste TS, Italy",Match,Google
